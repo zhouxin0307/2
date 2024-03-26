@@ -10,6 +10,7 @@ int main(){
     else{
         printf("%d不是闰年\n",a);
     }
+    printf("感谢使用\n");
     system("pause");
     return 0;
 }
